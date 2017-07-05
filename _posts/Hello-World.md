@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: An introduction to Source Separation
 published: false
 ---
 
@@ -44,6 +44,3 @@ Probably the most compelling reason that we do this research—at least from a p
 ## Onward!
 
 So now I’ve laid some groundwork for what source separation is and why it’s important. In the following installments of this blog I will describe the many ways that researchers have tackled this problem. As you can probably guess, the methods researchers have employed are as varied as the myriad definitions of a source that I outlined above. Join me as we explore many of these methods!
-
-
-
