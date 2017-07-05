@@ -9,6 +9,4 @@ This is a blog exploring many of the algorithms that do Blind Audio Source Separ
 
 ## About the Authors
 
-This blog is written by [Ethan Manilow](ethanmanilow.com) and [Bryan Pardo](bryanpardo.com) of the [Interactive Audio Lab](music.cs.northwestern.edu) at [Northwestern University](northwestern.edu). 
-
-
+This blog is written by [Ethan Manilow](https://www.ethanmanilow.com) and [Bryan Pardo](https://www.bryanpardo.com) of the [Interactive Audio Lab](https://music.cs.northwestern.edu) at [Northwestern University](https://northwestern.edu).
