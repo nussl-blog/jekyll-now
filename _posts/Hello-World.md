@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An introduction to Source Separation
-published: false
+published: true
 ---
 
 Hello World! We are happy to present the _nussl blog_, wherein we will provide a tutorial on many of the blind source separation algorithms contained within the Northwestern University Source Separation Library (`nussl`), an open-source source separation package. Usually, the blog posts will have code sprinkled throughout them, to root the concepts in real-world examples. But before we proceed onto explanations of the algorithms, we’d like to spend this post defining what “blind source separation” is and why it’s important. 
